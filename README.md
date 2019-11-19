@@ -20,3 +20,4 @@
 * Display this information in a table on the front end
 * Resubmit your calculated data via submit button on your frontend, display the API response
 * All object information can be found https://recruitment.highfieldqualifications.com/docs/index.html
+* Provide your source code prior to your interview via GitHub or other means
