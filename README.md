@@ -17,6 +17,6 @@
 * Calculate the following on the user set
   * A list of each colour in the data set with the frequency of each colour, order by highest quantity then alphabetically
   * Every users age plus 20 years
-* Display this information in a table on the front end
+* Display this information
 * All object information can be found https://recruitment.highfieldqualifications.com/docs/index.html
 * Provide your source code prior to your interview via GitHub or other means
