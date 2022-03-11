@@ -7,7 +7,7 @@
 * REST API
 
 ### Frontend
-* Angular/React/.NET Razor
+* Angular/React
 
 
 
